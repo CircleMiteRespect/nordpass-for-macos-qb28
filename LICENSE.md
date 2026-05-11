@@ -1,4 +1,4 @@
-# 
+# custom NordPass for macOS Helper | cross-device-sync + encryption offers the most advanced NordPass for macOS helper, with cross-device-sync and encryption. Ideal for macOS
 
 
 
